@@ -116,10 +116,10 @@ The analysis helps identify the major patterns, trends, and insights within the 
 
 ### Key Findings
 
-- **Insight 1:** Add your most important finding.
-- **Insight 2:** Add a significant trend or pattern.
-- **Insight 3:** Add an important comparison.
-- **Insight 4:** Add a business-impacting observation.
+- **Insight 1:** 72.77% of customers are non-subscribers.
+- **Insight 2:** Clothing generates the highest sales and revenue.
+- **Insight 3:** Young adults are the top-performing age group.
+- **Insight 4:** Subscription growth and customer engagement offer strong business opportunities.
 
 ### Business Outcome
 
@@ -158,7 +158,9 @@ The presentation includes:
 - Results and recommendations
 - Conclusion
 
-> **Presentation:** Add your Gamma/PPT link here.
+> **Presentation:** The project presentation summarizes the analysis, key findings, dashboard, and business recommendations.
+
+📑 **[View Project Presentation](presentation/Customer_Behavior_Analysis.pptx)**
 
 ---
 
